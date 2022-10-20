@@ -1,0 +1,113 @@
+/*! !!../../../node_modules/css-loader/dist/cjs.js!../../../node_modules/sass-loader/dist/cjs.js!./style.scss */
+
+/*! !../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../../node_modules/style-loader/dist/runtime/insertBySelector.js */
+
+/*! !../../../node_modules/style-loader/dist/runtime/insertStyleElement.js */
+
+/*! !../../../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */
+
+/*! !../../../node_modules/style-loader/dist/runtime/styleDomAPI.js */
+
+/*! !../../../node_modules/style-loader/dist/runtime/styleTagTransform.js */
+
+/*! ../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../node_modules/css-loader/dist/runtime/sourceMaps.js */
+
+/*! ./assets/images/body.png */
+
+/*! ./assets/images/frame.png */
+
+/*! ./assets/images/sample1.jpg */
+
+/*! ./assets/images/sample2.png */
+
+/*! ./assets/scss/style.scss */
+
+/*! Fabric.js Copyright 2008-2015, Printio (Juriy Zaytsev, Maxim Chernyak) */
+
+/*! fabric */
+
+/*! jsdom */
+
+/*! jsdom/lib/jsdom/living/generated/utils */
+
+/*! jsdom/lib/jsdom/utils */
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*!***********************!*\
+  !*** jsdom (ignored) ***!
+  \***********************/
+
+/*!************************************!*\
+  !*** ./src/assets/images/body.png ***!
+  \************************************/
+
+/*!************************************!*\
+  !*** ./src/assets/scss/style.scss ***!
+  \************************************/
+
+/*!*************************************!*\
+  !*** ./src/assets/images/frame.png ***!
+  \*************************************/
+
+/*!***************************************!*\
+  !*** ./src/assets/images/sample1.jpg ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./src/assets/images/sample2.png ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** jsdom/lib/jsdom/utils (ignored) ***!
+  \***************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/fabric/dist/fabric.js ***!
+  \********************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+
+/*!********************************************************!*\
+  !*** jsdom/lib/jsdom/living/generated/utils (ignored) ***!
+  \********************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/sourceMaps.js ***!
+  \************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
+  \***************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertBySelector.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
+  \**********************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
+  \**********************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/assets/scss/style.scss ***!
+  \*****************************************************************************************************************/
