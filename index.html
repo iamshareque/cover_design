@@ -7,16 +7,40 @@
 		<title>Temes Cover Design</title>
 	<script defer src="index.bundle.js"></script></head>
 	<body>
+        <div class="controls_wrapper">
+            <h3 class="title">Controls</h3>
+           
+
+            <button onclick="cmdAddText();" id="btn_add_txt">Add Text</button>
+            <button onclick="cmdAddImage(1);" id="btn_add_txt">Add Image1</button>
+            <button onclick="cmdAddImage(2);" id="btn_add_txt">Add Image2</button>
+
+            <div class="divider"></div>
+
+            <!-- range slider -->
+            <h6>Image Rotate</h6>
+            <div class="slidecontainer">
+                <input type="range" min="-180" max="180" value="0" step="1" class="slider" id="image_rotate">
+                <p>rotate angle : <span id="image_rotate_value">0°</span></p>
+            </div>
+
+            <div class="divider"></div>
+            <h6>Image Zoom in / Zoom Out </h6>
+            <div class="slidecontainer">
+                <input type="range" min="0" max="2" value="1" step="0.01" class="slider" id="image_zoom">
+                <p>zoom : <span id="image_zoom_value"></span></p>
+            </div>
+
+            <div class="divider"></div>
+
+            <a href="#" id="btn_generate_canvas">Generate Image</a>
+
+        </div>
 		<div class="cover_area">
             <canvas id="body_canvas"></canvas>
             <canvas id="frame_canvas"></canvas>
 		</div>
-        <div class="controls_wrapper">
-            <h3 class="title">Controls</h3>
-            <a href="#" id="btn_generate_canvas">Generate Final Image</a>
-            <button onclick="cmdAddText();" id="btn_add_txt">Add Text</button>
-            <button onclick="cmdAddImage();" id="btn_add_txt">Add Image</button>
-        </div>
+        
             <div class="result"></div>
 	</body>
 </html>
