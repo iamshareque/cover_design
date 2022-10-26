@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=1366" />
+		<meta name="viewport" content="width=768" />
 		<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
 
 		<title>Temes Cover Design</title>
@@ -16,7 +16,7 @@
 	<body>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-3">
+				<div class="col-12 col-md-3">
 					<div class="controls_wrapper">
 						<h3 class="title">Cover Design</h3>
 						<div class="divider"></div>
@@ -27,28 +27,32 @@
 							<input type="file" id="file_upload" accept="image/*" />
 						</div>
 						<div class="divider"></div>
-
+						<div class="bgcolor-picker">
+                            <label>Background</label> 
+                            <input type="color" id="bgcolor_picker" name="bgcolor_picker" value="#000000" />
+                        </div>
+                        
 						<a href="#" id="btn_generate_canvas">Generate Image</a>
 					</div>
 				</div>
 
-				<div class="col-6">
+				<div class="col-12 col-md-12">
 					<div class="row">
 						<div class="cover_area">
 							<canvas id="body_canvas"></canvas>
-							<canvas id="frame_canvas"></canvas>
+							<!-- <canvas id="frame_canvas"></canvas> -->
 						</div>
 					</div>
 				</div>
 
-				<div class="col-3">
+				<div class="col-12 col-md-3">
 					<div class="controls_wrapper_right active">
 						<h3 class="title">Controls</h3>
 						<div class="divider"></div>
 
 						<div class="controls-tabs">
 							<div class="controls-tab tab-common active" data-tab="image">Common</div>
-							<div class="controls-tab tab-text " data-tab="text">Text</div>
+							<div class="controls-tab tab-text" data-tab="text">Text</div>
 						</div>
 						<div class="common-controls active">
 							<div class="img_ctrl_row">
@@ -115,7 +119,7 @@
 
 							<div class="divider"></div>
 						</div>
-						<div class="text-controls ">
+						<div class="text-controls">
 							<div class="txt_ctrl_row">
 								<label>Font</label>
 								<select class="select font-change" id="select_font_family">
