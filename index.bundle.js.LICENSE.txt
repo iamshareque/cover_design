@@ -84,10 +84,6 @@
 
 /*! ./assets/images/body.png */
 
-/*! ./assets/images/body_transparent2.png */
-
-/*! ./assets/images/body_transparent3.png */
-
 /*! ./assets/images/controls/center.png */
 
 /*! ./assets/images/controls/down.png */
@@ -123,6 +119,10 @@
 /*! ./assets/images/controls/up.png */
 
 /*! ./assets/images/frame.png */
+
+/*! ./assets/images/newt1.png */
+
+/*! ./assets/images/newt2.png */
 
 /*! ./assets/images/sample1.jpg */
 
@@ -326,6 +326,14 @@
   !*** ./src/assets/images/frame.png ***!
   \*************************************/
 
+/*!*************************************!*\
+  !*** ./src/assets/images/newt1.png ***!
+  \*************************************/
+
+/*!*************************************!*\
+  !*** ./src/assets/images/newt2.png ***!
+  \*************************************/
+
 /*!***************************************!*\
   !*** ./src/assets/images/sample1.jpg ***!
   \***************************************/
@@ -369,14 +377,6 @@
 /*!***********************************************!*\
   !*** ./src/assets/images/controls/center.png ***!
   \***********************************************/
-
-/*!*************************************************!*\
-  !*** ./src/assets/images/body_transparent2.png ***!
-  \*************************************************/
-
-/*!*************************************************!*\
-  !*** ./src/assets/images/body_transparent3.png ***!
-  \*************************************************/
 
 /*!**************************************************!*\
   !*** ./node_modules/@popperjs/core/lib/enums.js ***!
